@@ -9,7 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@chakra-ui/icons": "^2.0.9",
+    "@chakra-ui/image": "^2.0.10",
+    "@chakra-ui/react": "^2.3.1",
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "@fontsource/montserrat": "^4.5.12",
+    "@fontsource/montserrat-alternates": "^4.5.10",
+    "framer-motion": "^7.2.1",
     "next": "12.2.5",
+    "next-i18next": "^12.0.1",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
